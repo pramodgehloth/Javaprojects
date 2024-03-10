@@ -1,1 +1,1 @@
-#this is a folder for Java Projects
+# This is a folder for Java Projects
